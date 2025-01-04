@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Tim Moore",
+	"icon": "https://micro.blog/mrtim/avatar.jpg",
+	"home_page_url": "https://mrt.im/",
+	"feed_url": "https://mrt.im/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mrtim.micro.blog/2025/01/04/101334.html",
+				"title": "My Only Resolution",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I don’t usually do New Year’s resolutions. This year I’m trying one: I’m going to try to follow Dan Sinker’s guide on daily journaling (<a class=\"autolink\" href=\"https://dansinker.com/posts/reflections/\">https://dansinker.com/posts/reflections/</a>).</p>\n\n<p>I struggle with task management at work, and with keeping track of what I’ve done throughout the year. My hope is that this process will help with both of those things. </p>\n",
+				"date_published": "2025-01-04T10:13:45-05:00",
+				"url": "https://mrt.im/2025/01/04/101334.html"
+			}
+	]
+}
