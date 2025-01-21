@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://mrtim.micro.blog/2025/01/21/on-top-of-all-the.html",
+				
+				"content_html": "<p>On top of all the other shit this week, Slack has decided to mess with my ADHD and hide about 50% of the carefully organized DMs and channels. I&rsquo;m about ready to just toss Slack out into the arctic chill.</p>\n",
+				"content_text": "On top of all the other shit this week, Slack has decided to mess with my ADHD and hide about 50% of the carefully organized DMs and channels. I'm about ready to just toss Slack out into the arctic chill.\n",
+				"date_published": "2025-01-21T10:15:25-05:00",
+				"url": "https://mrt.im/2025/01/21/on-top-of-all-the.html"
+			},
+			{
 				"id": "http://mrtim.micro.blog/2025/01/04/101334.html",
-				"title": "My Only Resolution",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>I don’t usually do New Year’s resolutions. This year I’m trying one: I’m going to try to follow Dan Sinker’s guide on daily journaling (<a class=\"autolink\" href=\"https://dansinker.com/posts/reflections/\">https://dansinker.com/posts/reflections/</a>).</p>\n\n<p>I struggle with task management at work, and with keeping track of what I’ve done throughout the year. My hope is that this process will help with both of those things. </p>\n",
+				
+				"content_html": "<p>For the new year, I’m going to follow <a href=\"https://dansinker.com/posts/reflections\">Dan Sinker’s guide on daily journaling</a>. I struggle with task management at work, and with keeping track of what I’ve done throughout the year. I also have some chronic illnesses that would benefit from tracking.</p>\n",
+				"content_text": "For the new year, I’m going to follow [Dan Sinker’s guide on daily journaling](https://dansinker.com/posts/reflections). I struggle with task management at work, and with keeping track of what I’ve done throughout the year. I also have some chronic illnesses that would benefit from tracking.\n",
 				"date_published": "2025-01-04T10:13:45-05:00",
 				"url": "https://mrt.im/2025/01/04/101334.html"
 			}
